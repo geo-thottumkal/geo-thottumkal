@@ -61,6 +61,15 @@ I'm Geo, a dedicated Software Developer with an MCA and nearly 2 years of experi
 
 ---
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31vl4dbfgjxbdy32lxhh533kd7yu)
+
+
+<img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
 <h2 id="Projects" align=''> Projects </h2>
 
 
