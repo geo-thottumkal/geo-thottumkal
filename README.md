@@ -3,7 +3,7 @@
 
 I'm Geo, a dedicated Software Developer with an MCA and nearly 2 years of experience at Infosys as an Operations Executive, Senior Operations Executive, and Senior System Associate. Passionate about technology, software development, problem-solving, and continuous growth.
 
-<a href="https://linkedin.com/geo-george-b6360619b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/geo-george-b6360619b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <details>
   <summary>More about me</summary>
