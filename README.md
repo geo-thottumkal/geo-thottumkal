@@ -55,9 +55,10 @@ I thrive on **building scalable web applications**, **solving complex problems**
 
 | **Project** | **Description** | **Tech Stack** |
 |------------|---------------|---------------|
-| **[E-Commerce Web App](https://github.com/)** | A full-stack online shopping platform with user authentication and cart management. | Django, React, MySQL |
-| **[AI Chatbot](https://github.com/)** | A chatbot using NLP to answer FAQs and assist users. | Python, TensorFlow, Flask |
-| **[Cloud-Based File Storage](https://github.com/)** | A secure file storage and sharing platform on AWS. | AWS S3, Spring Boot, PostgreSQL |
+| **[AgriShop – E-Commerce Platform for Farmers](#)** | Developed an e-commerce platform for farmers to purchase agricultural essentials like fertilizers, pesticides, and tools. The platform promotes sustainable farming practices and offers educational resources. | HTML, CSS, JavaScript, Python, SQLite3 |
+| **[BikeSpare Hub – Spare Parts Shop Management System](#)** | A web-based system to streamline spare parts inventory, sales, and customer management with order booking and automated billing. | PHP, MySQL |
+| **[Human Resource Management System (HRM)](#)** | A comprehensive HRM system for employee management, payroll processing, leave tracking, and project assignments, optimizing HR operations. | ASP.NET (Microsoft Visual Studio 2013), Microsoft SQL Server 2014 |
+
 
 ---
 
