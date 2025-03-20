@@ -41,14 +41,13 @@ I thrive on **building scalable web applications**, **solving complex problems**
 
 ## 🎓 Certifications  
 
-| **Certification** | **Platform** |
-|------------------|-------------|
-| Python Django Internship | Progressive Cybernetics Pvt Ltd |
+| **Certification** | **Institution/Platform** |
+|------------------|-------------------------|
+| Python Django Internship Certificate | Progressive Cybernetics Pvt Ltd |
 | Software Testing | NPTEL |
 | AWS Fundamentals: Going Cloud-Native | Coursera |
 | Python Basics for Data Science | edX |
 | AI For Everyone | Coursera |
-
 
 ---
 
