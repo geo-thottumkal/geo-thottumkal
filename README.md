@@ -53,12 +53,24 @@ I'm Geo, a dedicated Software Developer with an MCA and over 2 years of experien
 ---
 <h2 id="Certifications" align=''> Certifications </h2>
 
-<div>
-<img src="https://img.shields.io/badge/OSCP-Certified-red?style=for-the-badge&color=000000" alt="OSCP Certification" />
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="background-color: #1e293b; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
+        Python Django Internship Certificate
+    </span>
+    <span style="background-color: #4f46e5; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
+        Software Testing
+    </span>
+    <span style="background-color: #ff9900; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
+        AWS Fundamentals: Going Cloud-Native
+    </span>
+    <span style="background-color: #007acc; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
+        Python Basics for Data Science
+    </span>
+    <span style="background-color: #f72585; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
+        AI For Everyone
+    </span>
 </div>
+
 
 ---
 
