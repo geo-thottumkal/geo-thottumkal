@@ -41,23 +41,14 @@ I thrive on **building scalable web applications**, **solving complex problems**
 
 ## 🎓 Certifications  
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #1e293b; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
-      Python Django Internship Certificate
-  </span>
-  <span style="background-color: #4f46e5; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
-      Software Testing
-  </span>
-  <span style="background-color: #ff9900; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
-      AWS Fundamentals: Going Cloud-Native
-  </span>
-  <span style="background-color: #007acc; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
-      Python Basics for Data Science
-  </span>
-  <span style="background-color: #f72585; color: white; padding: 8px 12px; border-radius: 8px; font-size: 14px; font-weight: bold;">
-      AI For Everyone
-  </span>
-</div>
+| **Certification** | **Platform** |
+|------------------|-------------|
+| Python Django Internship | Progressive Cybernetics Pvt Ltd |
+| Software Testing | NPTEL |
+| AWS Fundamentals: Going Cloud-Native | Coursera |
+| Python Basics for Data Science | edX |
+| AI For Everyone | Coursera |
+
 
 ---
 
