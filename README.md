@@ -61,12 +61,11 @@ I thrive on **building scalable web applications**, **solving complex problems**
 
 
 ---
+ 
 
 ## 📊 GitHub Stats  
 
 ![Geo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geo-thottumkal&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geo-thottumkal&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geo-thottumkal&theme=radical)
 
