@@ -37,14 +37,12 @@ I'm Geo, a dedicated Software Developer with an MCA and nearly 2 years of experi
       <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />  
       <img src="https://img.shields.io/badge/Algorithms-00979D?style=for-the-badge&logo=codeforces&logoColor=white" alt="Algorithms" />  
       <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />  
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /> 
-      <img src="https://img.shields.io/badge/Operating%20Systems-008080?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />  
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />   
       <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Data Science" />  
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />   
-      <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="DBMS" />  
-
- 
-
+      <img src="https://img.shields.io/badge/DBMS-003B57?style=for-the-badge&logo=mongodb&logoColor=white" alt="DBMS" /> 
+      <img src="https://img.shields.io/badge/Operating%20Systems-008080?style=for-the-badge&logo=linux&logoColor=white" alt="Operating Systems" />
+      <img src="https://img.shields.io/badge/Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Computing" />       
   </div>
 </div>
 
