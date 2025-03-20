@@ -7,11 +7,15 @@ I'm Geo, a dedicated Software Developer with an MCA and nearly 2 years of experi
 
 <details>
   <summary>More about me</summary>
+  
+- ## 🚀 About Me  
 
-- **Name**: Geo
-- **From**: Thodupuzha,Kerala
-- 👨‍💻 MCA Graduate | Ex-Infoscion | Senior Systems Associate
-- 🚀 Tech Enthusiast | Passionate About Scalable Web Applications
+👋 Hi, I'm **Geo**!  
+📍 Based in **Thodupuzha, Kerala**  
+🎓 **MCA Graduate | Ex-Infoscion | Senior Systems Associate**  
+💡 Passionate about **Scalable Web Applications & Technology**  
+📧 **Email:** [geothottumkal@gmail.com](mailto:geothottumkal@gmail.com)
+
 </details>
 <br>
 
